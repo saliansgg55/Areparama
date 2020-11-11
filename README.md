@@ -2,6 +2,6 @@
 Sitio de Comida Venezolana
 
 # Hecho en:
-### HTML,
-### CSS,
-### BOOTSTRAP
+ HTML,
+CSS,
+ BOOTSTRAP
